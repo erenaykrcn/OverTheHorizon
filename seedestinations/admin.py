@@ -1,3 +1,9 @@
 from django.contrib import admin
+from .models import Destination
 
-# Register your models here.
+
+class DestAdmin(admin.ModelAdmin):
+    list_display = ("name", "box1")
+
+
+admin.site.register(Destination, DestAdmin)

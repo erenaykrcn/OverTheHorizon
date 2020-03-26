@@ -1,1 +1,1 @@
-web: gunicorn blogWorld.wsgi
+web: gunicorn OverTheHorizon.wsgi

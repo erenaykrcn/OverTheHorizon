@@ -2,6 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec67677-81ad-4885-ab0c-ba96f13b694e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/eg-pad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/eg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/eg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/eg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/SeeDestinations/Guides/Africa/assets/eg/highs-eg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/main.9da1ddb2.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/main.9da1ddb2.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/js/2.4eb44717.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/js/2.4eb44717.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/js/2.4eb44717.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/js/main.733cdcf4.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/js/main.733cdcf4.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/media/eg2.19ecc562.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/media/eg3.139052af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/media/eg4.b515b324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/media/highs-eg4.afd66dc5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react/public/index.html" afterDir="false" />
@@ -9,6 +30,39 @@
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI-react/userinterface-react/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI-react/userinterface-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.1b47390a.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.1b47390a.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.807a5c7e.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.807a5c7e.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.c02d94fb.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.c02d94fb.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/try.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.4a2471cb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.4a2471cb.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.4a2471cb.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.543b3647.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.543b3647.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.543b3647.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.d8f335a6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.d8f335a6.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/2.d8f335a6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.0e4754dc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.0e4754dc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.146067d1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.146067d1.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.56688ca7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.56688ca7.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.ce38ad98.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/main.ce38ad98.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/myreact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/myreact.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/runtime-myreact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/runtime-myreact.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/media/staticfiles - Kısayol.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +74,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UI-react/userinterface-react" />
   </component>
   <component name="ProjectId" id="1ZZpNPslmjidWdVrOf1RKUgIEAB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -73,6 +130,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585056429468</updated>
       <workItem from="1585056437583" duration="1049000" />
+      <workItem from="1585058848804" duration="1017000" />
+      <workItem from="1585167209977" duration="734000" />
     </task>
     <servers />
   </component>
@@ -84,10 +143,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
