@@ -1,0 +1,23 @@
+{
+	"South Africa": ["CPT", "Cape Town International Airport"],
+	"Egypt":["CAI", "Cairo International Airport"],
+	"Morocco":["RAK", "Marrakesh Menara Airport"],
+
+	"China":["PEK", "Beijing Capital Airport"],
+	"Japan":["HND", "Tokyo Airport Airport"],
+	"Turkey":["IST", "Istanbul International Airport"],
+
+	"Hawaii":["HNL", "Honolulu International Airport"],
+	"Polynesia":["BOB","Bora Bora International Airport"],
+
+	"Paris": ["CDG", "Paris Charles de Gaulle Airport"],
+	"Barcelona": ["BCN","Barcelona El Prat Airport"],
+	"Amsterdam": ["AMS","Amsterdam Schiphol Airport"],
+	"Ghent, Bruges & Antwerp": ["BRU","Brussels International Airport"],
+	"Vienna & Prague": ["VIE","Vienna International Airport"],
+	"Munich & Salzburg": ["MUC", "Munich Franz Joseph Strauss Airport"],
+	"Oslo & Norwegian Fjords": ["OSL", "Oslo-Gardermoen Airport"],
+	"Copenhagen & Stockholm": ["ARN", "Stockholm-Arlanda Airport"],
+	"Saint Petersburg": ["LED", "Saint Petersburg Pulkovo Airport"]
+	
+}
